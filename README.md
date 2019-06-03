@@ -1,3 +1,11 @@
+# react-components-library-example-cra
+
+This project is used to check the react-components-library package
+
+---
+
+## create-react-app documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
