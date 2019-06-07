@@ -1,6 +1,11 @@
 # react-components-library-example-cra
 
-This project is used to check the react-components-library package
+This project is used to check the jl-react-components-library package
+
+- [Documentation](https://jmlivingston.github.io/react-components-library)
+- [GitHub Repository](https://github.com/jmlivingston/react-components-library)
+- [npm package](https://www.npmjs.com/package/jl-react-components-library)
+- [Sample Project](https://github.com/jmlivingston/react-components-library-example-cra)
 
 ---
 
