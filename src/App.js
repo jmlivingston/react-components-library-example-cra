@@ -1,7 +1,8 @@
+import BlueButton from 'jl-react-components-library/cjs/ui/BlueButton'
+import GreenButton from 'jl-react-components-library/cjs/ui/GreenButton'
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
-import { BlueButton, GreenButton } from 'jl-react-components-library'
+import logo from './logo.svg'
 
 function App() {
   return (
